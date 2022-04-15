@@ -1,0 +1,21 @@
+.color-nav{
+    background-color: red;
+}
+body{
+    background-color: rgb(197, 189, 189);
+}
+h1{
+    text-align: center;
+    color: brown
+}
+h2{
+    text-align: center;
+    color: brown
+}
+h3{
+    color: brown;
+}
+footer{
+    text-align: center;
+    color: brown
+}
